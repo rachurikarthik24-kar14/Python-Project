@@ -3,4 +3,11 @@ The Cafe Management System is a simple Python-based project designed to simulate
 
 This project was created to demonstrate the use of Python fundamentals and Object-Oriented Programming (OOPS) concepts in solving a small real-world business problem.
 
-**Project Objective****:**
+**Project Objective:**
+The objective of this project is to build a simple system that helps in:
+
+* Organizing cafe menu items by cuisine
+* Displaying available food and beverage items
+* Managing monthly expenses.
+* Calculating total expenses and profit
+* Demonstrating Python programming concepts
